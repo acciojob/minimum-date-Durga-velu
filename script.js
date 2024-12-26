@@ -1,6 +1,7 @@
 function minDate(dates) {
   //write you code here
-	return minDate([dates])
+	
+	return Math.min([dates])
 }
 
 // Do not change the code
