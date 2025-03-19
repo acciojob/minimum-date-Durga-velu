@@ -1,7 +1,7 @@
 function minDate(dates) {
   //write you code here
 	
-	return Math.min([dates])
+	return Math.min([...dates])
 }
 
 // Do not change the code
