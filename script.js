@@ -1,7 +1,11 @@
 function minDate(dates) {
   //write you code here
+
+    const mindate =Math.min([...dates]);
 	
-	return Math.min([...dates])
+	
+	return mindate
+	
 }
 
 // Do not change the code
